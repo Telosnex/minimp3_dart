@@ -1,0 +1,14 @@
+name: minimp3_dart
+description: >-
+  Pure Dart port of the minimp3 decoder. Work in progress translation of
+  minimp3.h into idiomatic Dart.
+version: 0.0.1-dev
+repository: https://example.com/minimp3_dart
+homepage: https://example.com/minimp3_dart
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+dependencies:
+  meta: ^1.11.0
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.25.0
